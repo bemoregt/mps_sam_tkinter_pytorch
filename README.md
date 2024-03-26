@@ -2,7 +2,7 @@
 - mps : metal GPGPU for silicon mac's GPU
 - It cccelerate the pytorch's train/infer speed.
 
-![MPS example]( https://github.com/bemoregt/ofPhaseCongruency/blob/master/result.png "demo")
+![MPS example]( https://github.com/bemoregt/mps_sam_tkinter_pytorch/blob/main/sam_demo.gif "demo")
 - demo gif
 
 ### Dependancy
